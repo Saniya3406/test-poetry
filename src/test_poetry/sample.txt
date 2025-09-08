@@ -1,1 +1,2 @@
 Hello Poetry makes dependency management easy!
+Let's try with new line.
